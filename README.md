@@ -33,7 +33,7 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
     - **[EXTRA: Exercícios em Altair](aula_05/aula05_EXTRA_exercicios.ipynb)**
 
 #### SEMANA 2:
-- **27/07 - [AULA 6](aula_06/): NOTEBOOK GUIADO, [MINI PROJETO](aula_06/projeto_biomedicina.ipynb)**
+- **27/07 - [AULA 6](aula_06/): [MINI PROJETO](aula_06/projeto_biomedicina.ipynb)**
 - **28/07 - AULA 7: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **29/07 - AULA 8: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
 - **30/07 - AULA 9: SLIDES, NOTEBOOK GUIADO, EXERCÍCIOS, GABARITO**
