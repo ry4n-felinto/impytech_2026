@@ -37,7 +37,7 @@ O curso adota uma abordagem **Hands-on** (mão na massa), combinando teoria e pr
 - **28/07 - [AULA 7](aula_07/): [SLIDES](aula_07/aula07_slides.pdf), [NOTEBOOK: Estatística Descritiva](aula_07/estatística_descritiva.ipynb), [EXERCÍCIOS](aula_07/aula07_exercicios.ipynb), [GABARITO](aula_07/aula07_gabarito.ipynb)**
 - **30/07 - [AULA 8](aula_08/): [SLIDES](aula_08/aula08_slides.pdf), [NOTEBOOK GUIADO](aula_08/aula08_notebook_guiado.ipynb), [EXERCÍCIOS: PPO](aula_08/aula08_exercicios_POO.ipynb), [EXERCÍCIOS: RL](aula_08/aula08_exercicios_RL.ipynb)**
     - **[NOTEBOOK GUIADO EXTRA](aula_08/aula08_notebook_guiado_extra.ipynb)**
-- **31/07 - [AULA 9](aula_09/): SLIDES, [NOTEBOOK GUIADO](aula_09/aula09_notebook_guiado.ipynb), [EXERCÍCIOS](aula_09/aula09_notebook_exercicios.ipynb)**
+- **31/07 - [AULA 9](aula_09/): [SLIDES](aula_09/aula09_slides.pdf), [NOTEBOOK GUIADO](aula_09/aula09_notebook_guiado.ipynb), [EXERCÍCIOS](aula_09/aula09_exercicios.ipynb)**
 
 ---
 
